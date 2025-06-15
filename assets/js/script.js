@@ -1106,6 +1106,10 @@ function checkName() {
           resultText = "Kotha is a nice girl 😊";
           break;
 
+        case "tahan":
+          resultText = "tahan is a funny boy";
+          break;
+
         case "jayed":
           resultText = "Jayed is a football lover ⚽";
           break;
