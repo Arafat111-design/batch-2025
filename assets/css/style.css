@@ -1,0 +1,42 @@
+ body{
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            gap: 30px;
+            background-color: pink;
+        }
+        #nameInput{
+            font-size: 17px;
+            padding: 10px;
+            background-color: skyblue;
+            color: darkblue;   
+            border: none;
+            outline: none;
+            border-radius: 10px;
+        }
+
+        input::placeholder {
+            color: black;
+            font-style: italic;
+        }
+        h2{
+            color: purple;
+        }
+        button{
+            padding: 10px;
+            background-color: #5000ff;
+            color: white;
+            font-size: 16px;
+            font-weight: 500;
+            border: none;
+            outline: none;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+
+        #result{
+            color: purple;
+            font-size: 20px;
+        }
