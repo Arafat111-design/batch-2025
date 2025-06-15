@@ -1087,6 +1087,9 @@ let title = "Tami";
 // }
 
 // console.log(digit)
+function capitalizeName(name) {
+  return name.charAt(0).toUpperCase() + name.slice(1).toLowerCase();
+}
 
 function checkName() {
       let name = document.getElementById("nameInput").value.toLowerCase(); // ছোট অক্ষরে রূপান্তর
@@ -1094,51 +1097,53 @@ function checkName() {
       let resultText;
 
       switch (name) {
-        case "arafat,Arafat":
+        case "arafat":
+        case "the owner":
           resultText = "Arafat is a ফালতু ছেলে 😅";
           break;
 
-        case "tanha,Tanha,chadni,Chadni":
+        case "tanha":
+        case "chadni":
           resultText = "Tanha is a moody girl 💫 এবং কারো প্রেমে আছে!";
           break;
 
-        case "kotha,Kotha,katha,Katha":
+        case "kotha":
+        case "katha":
           resultText = "Kotha is a nice girl 😊";
           break;
 
-        case "tahan,Tanha":
+        case "tahan":
+        case "boro vi":
           resultText = "Tahan is a funny boy 😅";
           break;
 
-        case "jayed,Jayed,jayad":
+        case "jayed":
           resultText = "Jayed is a football lover ⚽";
           break;
 
-        case "juthi,Juthi":
+        case "juthi":
+        case "crezy":
           resultText = "Juthi is a শকচুন্নী  👻";
           break;
 
-        case "niloy,Niloy":
+        case "niloy":
           resultText = "Niloy is simple boy 😃";
           break;
 
-        case "sumaiya,Sumaiya":
+        case "sumaiya":
           resultText = "I do not more about him 🙂";
           break;
 
-        case "maisha,Maisha":
+        case "maisha":
           resultText = "I do not more about him 🙂";
           break;
 
-        case "siam,Siam":
+        case "siam":
           resultText = "Siam is good student 🧐";
           break;
 
-        case "masud,Masud":
-          resultText = "He is our sir ❤";
-          break;
-
-        case "masud sir, Masud Sir":
+        case "masud":
+         case "masud sir":
           resultText = "He is our sir ❤";
           break;
 
