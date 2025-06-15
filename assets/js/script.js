@@ -1099,56 +1099,56 @@ function checkName() {
       switch (name) {
         case "arafat":
         case "the owner":
-          resultText = "Arafat is a ফালতু ছেলে 😅";
+          resultText = "Arafat is a ফালতু ছেলে 😅!";
           break;
 
         case "tanha":
         case "chadni":
-          resultText = "Tanha is a moody girl 💫 এবং কারো প্রেমে আছে!";
+          resultText = "Tanha is a moody girl 💫 এবং এখন আবার কন্টেন্ট ক্রিয়েটর এর ভাব ধরসে!";
           break;
 
         case "kotha":
         case "katha":
-          resultText = "Kotha is a nice girl 😊";
+          resultText = "Kotha is a nice girl 😊!";
           break;
 
         case "tahan":
         case "boro vi":
-          resultText = "Tahan is a funny boy 😅";
+          resultText = "Tahan is a funny boy 😅!";
           break;
 
         case "jayed":
-          resultText = "Jayed is a football lover ⚽";
+          resultText = "Jayed is a football lover ⚽!";
           break;
 
         case "juthi":
         case "crezy":
-          resultText = "Juthi is a শাকচুন্নী  👻";
+          resultText = "Juthi is a শাকচুন্নী  👻!";
           break;
 
         case "niloy":
-          resultText = "Niloy is simple boy 😃";
+          resultText = "Niloy is simple boy 😃!";
           break;
 
         case "sumaiya":
-          resultText = "I do not more about him 🙂";
+          resultText = "I do not more about him 🙂!";
           break;
 
         case "maisha":
-          resultText = "I do not more about him 🙂";
+          resultText = "I do not more about him 🙂!";
           break;
 
         case "siam":
-          resultText = "Siam is good student 🧐";
+          resultText = "Siam is good student 🧐!";
           break;
 
         case "masud":
          case "masud sir":
-          resultText = "He is our sir ❤";
+          resultText = "He is our sir ❤!";
           break;
 
         default:
-          resultText = "এই নামে কিছু খুঁজে পাওয়া যায়নি 😕";
+          resultText = "এই নামে কিছু খুঁজে পাওয়া যায়নি 😕!";
       }
 
       document.getElementById("result").innerText = resultText;
