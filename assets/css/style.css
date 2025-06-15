@@ -6,6 +6,7 @@
             flex-direction: column;
             gap: 30px;
             background-color: pink;
+            text-align: center;
         }
         #nameInput{
             font-size: 15px;
@@ -38,3 +39,17 @@
             color: purple;
             font-size: 20px;
         }
+
+       
+       @media (min-width: 330px ) and (max-width: 600px ) {
+       
+         h2 {
+           font-size: 21px;
+         }
+       
+         #result {
+           color: purple;
+           font-size: 16px;
+         }
+         
+       }
