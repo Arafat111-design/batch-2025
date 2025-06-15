@@ -1098,7 +1098,7 @@ function checkName() {
           resultText = "Arafat is a ফালতু ছেলে 😅";
           break;
 
-        case "tanha,Tanha":
+        case "tanha,Tanha,chadni,Chadni":
           resultText = "Tanha is a moody girl 💫 এবং কারো প্রেমে আছে!";
           break;
 
@@ -1107,7 +1107,7 @@ function checkName() {
           break;
 
         case "tahan,Tanha":
-          resultText = "tahan is a funny boy 😅";
+          resultText = "Tahan is a funny boy 😅";
           break;
 
         case "jayed,Jayed,jayad":
