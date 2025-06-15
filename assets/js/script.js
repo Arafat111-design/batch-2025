@@ -1123,7 +1123,7 @@ function checkName() {
 
         case "juthi":
         case "crezy":
-          resultText = "Juthi is a শকচুন্নী  👻";
+          resultText = "Juthi is a শাকচুন্নী  👻";
           break;
 
         case "niloy":
