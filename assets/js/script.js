@@ -1094,51 +1094,51 @@ function checkName() {
       let resultText;
 
       switch (name) {
-        case "arafat":
+        case "arafat,Arafat":
           resultText = "Arafat is a ফালতু ছেলে 😅";
           break;
 
-        case "tanha":
+        case "tanha,Tanha":
           resultText = "Tanha is a moody girl 💫 এবং কারো প্রেমে আছে!";
           break;
 
-        case "kotha":
+        case "kotha,Kotha,katha,Katha":
           resultText = "Kotha is a nice girl 😊";
           break;
 
-        case "tahan":
+        case "tahan,Tanha":
           resultText = "tahan is a funny boy 😅";
           break;
 
-        case "jayed":
+        case "jayed,Jayed,jayad":
           resultText = "Jayed is a football lover ⚽";
           break;
 
-        case "juthi":
+        case "juthi,Juthi":
           resultText = "Juthi is a শকচুন্নী  👻";
           break;
 
-        case "niloy":
+        case "niloy,Niloy":
           resultText = "Niloy is simple boy 😃";
           break;
 
-        case "sumaiya":
+        case "sumaiya,Sumaiya":
           resultText = "I do not more about him 🙂";
           break;
 
-        case "niloy":
+        case "maisha,Maisha":
           resultText = "I do not more about him 🙂";
           break;
 
-        case "siam":
+        case "siam,Siam":
           resultText = "Siam is good student 🧐";
           break;
 
-        case "masud":
+        case "masud,Masud":
           resultText = "He is our sir ❤";
           break;
 
-        case "masud sir":
+        case "masud sir, Masud Sir":
           resultText = "He is our sir ❤";
           break;
 
