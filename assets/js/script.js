@@ -1107,7 +1107,7 @@ function checkName() {
           break;
 
         case "tahan":
-          resultText = "tahan is a funny boy";
+          resultText = "tahan is a funny boy 😅";
           break;
 
         case "jayed":
@@ -1119,27 +1119,27 @@ function checkName() {
           break;
 
         case "niloy":
-          resultText = "Niloy is simple boy";
+          resultText = "Niloy is simple boy 😃";
           break;
 
         case "sumaiya":
-          resultText = "I do not more about him";
+          resultText = "I do not more about him 🙂";
           break;
 
         case "niloy":
-          resultText = "I do not more about him";
+          resultText = "I do not more about him 🙂";
           break;
 
         case "siam":
-          resultText = "Siam is good student";
+          resultText = "Siam is good student 🧐";
           break;
 
         case "masud":
-          resultText = "He is our sir";
+          resultText = "He is our sir ❤";
           break;
 
         case "masud sir":
-          resultText = "He is our sir";
+          resultText = "He is our sir ❤";
           break;
 
         default:
