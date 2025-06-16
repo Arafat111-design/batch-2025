@@ -1127,7 +1127,7 @@ function checkName() {
           break;
 
         case "niloy":
-          resultText = "Niloy is simple boy 😃!";
+          resultText = "Niloy is simple and intelligent boy 😃!";
           break;
 
         case "sumaiya":
