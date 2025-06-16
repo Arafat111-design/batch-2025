@@ -1104,7 +1104,7 @@ function checkName() {
 
         case "tanha":
         case "chadni":
-          resultText = "Tanha is a moody girl 💫 এবং এখন আবার কন্টেন্ট ক্রিয়েটর এর ভাব ধরসে!";
+          resultText = "Tanha is a moody girl 💫 ইদানিং আবার কন্টেন্ট ক্রিয়েটর এর ভাব ধরসে 🫣!";
           break;
 
         case "kotha":
@@ -1118,7 +1118,7 @@ function checkName() {
           break;
 
         case "jayed":
-          resultText = "Jayed is a football lover ⚽!";
+          resultText = "Jayed is a Play boy 🤚🏻💀!";
           break;
 
         case "juthi":
