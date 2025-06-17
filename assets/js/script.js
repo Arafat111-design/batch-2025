@@ -1114,7 +1114,7 @@ function checkName() {
 
         case "tahan":
         case "boro vi":
-          resultText = "Tahan is a funny boy 😅!";
+          resultText = "Tahan is a business man 💀!";
           break;
 
         case "jayed":
